@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm gauravesh</h1>
-<h3 align="center">A cloud computing contributor,passionate about quantum computing and AI</h3>
+<h1 align="center">Hi 👋, I'm Gauravesh Sharma</h1>
+<h3 align="center">A cloud computing contributor, passionate about quantum computing and AI</h3>
 
-- 🌱 I’m currently learning **Python, Azure,GCD, and Deep learning**
+- 🌱 I’m currently learning **Python, Azure, GCD, and Deep learning**
 
 - 📫 How to reach me **gouraveshsharma@gmail.com**
 
