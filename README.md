@@ -18,6 +18,6 @@
 
 <p><a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravesh&theme=react&line_height=40&hide=css"/> </a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.stats-sigma-five.vercel.app/api?username=gauravesh&show_icons=true&theme=radical&locale=en" alt="gauravesh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gauravesh&show_icons=true&theme=radical&locale=en" alt="gauravesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravesh&theme=radical&" alt="gauravesh" /></p>
